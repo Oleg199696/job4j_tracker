@@ -1,3 +1,5 @@
+package ru.job4j.checkstyle;
+
 public class Broken {
 
     public static final String NEW_VALUE = "";
